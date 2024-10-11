@@ -11,7 +11,7 @@ My first exposure to cybersecurity was the need to use Wireshark in my previous 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/frostytm90/CyberFoundations/tree/main">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/frostytm90/CyberFoundations/tree/main">Cyber Foundation</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -52,5 +52,5 @@ My first exposure to cybersecurity was the need to use Wireshark in my previous 
 </div>
 
 ## Projects
-- <a href="https://github.com/frostytm90/CyberFoundations/tree/main">Detection Lab</a>
+- <a href="https://github.com/frostytm90/CyberFoundations/tree/main">Cyber Foundation</a>
 - SOC Automation Project
