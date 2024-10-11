@@ -11,12 +11,12 @@ My first exposure to cybersecurity was the need to use Wireshark in my previous 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/frostytm90/CyberFoundations/tree/main">Cyber Foundation</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| TBA | <a href="https://github.com/frostytm90/CyberFoundations/tree/main">Introduction To CyberSecurity</a>|
+| TBA | <a href="https://google.com">Linux Fundamentals</a>|
+| TBA | <a href="https://google.com">Python Fundamentals</a>|
+| TBA | <a href="https://google.com">Network Research</a>|
+| TBA | <a href="https://google.com">Penetration Testing</a>|
+| TBA | <a href="https://google.com">Security Operation Center</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -52,5 +52,5 @@ My first exposure to cybersecurity was the need to use Wireshark in my previous 
 </div>
 
 ## Projects
-- <a href="https://github.com/frostytm90/CyberFoundations/tree/main">Cyber Foundation</a>
+- <a href="https://github.com/frostytm90/CyberFoundations/tree/main">Introduction to CyberSecurity</a>
 - SOC Automation Project
