@@ -16,5 +16,4 @@ The objective of this repository is to provide a comprehensive set of QA documen
 
 
 ## Projects
-- <a href="https://github.com/frostytm90/CyberFoundations/tree/main">Introduction to CyberSecurity</a>
-- SOC Automation Project
+- <a href="https://github.com/frostytm90/automation-journey?tab=readme-ov-file#3-automating-cookie-clicker-game">Cookie Clicker</a>
