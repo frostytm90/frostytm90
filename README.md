@@ -12,11 +12,8 @@ The objective of this repository is to provide a comprehensive set of QA documen
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | QA Artefacts | <a href="https://github.com/frostytm90/QA-artifacts">QA Artefacts</a>|
-| TBA | <a href="https://google.com">Linux Fundamentals</a>|
-| TBA | <a href="https://google.com">Python Fundamentals</a>|
-| TBA | <a href="https://google.com">Network Research</a>|
-| TBA | <a href="https://google.com">Penetration Testing</a>|
-| TBA | <a href="https://google.com">Security Operation Center</a>|
+| Selenium | <a href="https://github.com/frostytm90/automation-journey">Selenium Automation Journey</a>|
+
 
 ## Projects
 - <a href="https://github.com/frostytm90/CyberFoundations/tree/main">Introduction to CyberSecurity</a>
