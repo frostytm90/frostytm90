@@ -1,11 +1,11 @@
 # Hello, I'm Teck Meng
 <a href="https://linkedin.com/in/teck-meng-bb8379142/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-I believe in the need to be precise and methodical when it comes to solving issues holistically. I enjoy using a methodical approach to identify root cause, formulate hypotheses, and experiment with different ways to resolve issues. Time and time again, this approach has helped me to resolve and prevent recurring issues.
+Hello! I'm TM, a Quality Assurance professional with a focus on enhancing software quality through thorough testing and streamlined processes. I have experience in both manual and automated testing, specializing in creating efficient QA workflows and ensuring product stability. This repository is a collection of tools and templates I've used to ensure software quality at scale, and I'm always looking to collaborate and improve QA practices. Feel free to explore, contribute, or reach out!
 
 ## Objective
 
-My first exposure to cybersecurity was the need to use Wireshark in my previous role as a QA Engineer. That initial exposure led me to gain a better understanding of the field and led me to be aware of my natural interest in cybersecurity news and tasks. I found myself enjoying Hack The Box and the 6-months vocational training programme that I embarked on to deepen my skillset. My journey in QA has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+The objective of this repository is to provide a comprehensive set of QA documentation artifacts that can assist QA professionals in standardizing processes, improving efficiency, and ensuring consistency in software testing efforts. These resources are designed to help individuals and teams effectively plan, execute, and report on their testing activities, ultimately contributing to high-quality software releases.
 
 ## Skills
 
