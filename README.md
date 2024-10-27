@@ -11,7 +11,7 @@ The objective of this repository is to provide a comprehensive set of QA documen
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| TBA | <a href="https://github.com/frostytm90/CyberFoundations/tree/main">Introduction To CyberSecurity</a>|
+| QA Artefacts | <a href="https://github.com/frostytm90/QA-artifacts">QA Artefacts</a>|
 | TBA | <a href="https://google.com">Linux Fundamentals</a>|
 | TBA | <a href="https://google.com">Python Fundamentals</a>|
 | TBA | <a href="https://google.com">Network Research</a>|
