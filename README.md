@@ -9,7 +9,7 @@ The objective of this repository is to provide a comprehensive set of QA documen
 
 ## Skills
 
-| Skill                                         | Associated Repo         |
+| Skill                                         | Associated Repositories       |
 |-----------------------------------------------|----------------------------|
 | QA Artefacts | <a href="https://github.com/frostytm90/QA-artifacts">QA Artefacts</a>|
 | Python | <a href="https://github.com/frostytm90/python-journey">Python Journey</a>|
