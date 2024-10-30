@@ -9,7 +9,7 @@ The objective of this repository is to provide a comprehensive set of QA documen
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Repo         |
 |-----------------------------------------------|----------------------------|
 | QA Artefacts | <a href="https://github.com/frostytm90/QA-artifacts">QA Artefacts</a>|
 | Python | <a href="https://github.com/frostytm90/python-journey">Python Journey</a>|
@@ -17,4 +17,12 @@ The objective of this repository is to provide a comprehensive set of QA documen
 
 
 ## Projects
+
+### Selenium
 - <a href="https://github.com/frostytm90/automation-journey?tab=readme-ov-file#3-automating-cookie-clicker-game">Cookie Clicker</a>
+
+### Python
+- <a href="https://github.com/frostytm90/python-journey/tree/main/projects/adventureGame">Text Base Adventure Short Game</a>
+- <a href="https://github.com/frostytm90/python-journey/tree/main/projects/contactManagementSystem">Contact Management System</a>
+- <a href="https://github.com/frostytm90/python-journey/tree/main/projects/textBaseCalculator">Text-based Calculator</a>
+- <a href="https://github.com/frostytm90/python-journey/tree/main/projects/ticTacToe">Game of TicTacToe</a>
