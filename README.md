@@ -12,6 +12,7 @@ The objective of this repository is to provide a comprehensive set of QA documen
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | QA Artefacts | <a href="https://github.com/frostytm90/QA-artifacts">QA Artefacts</a>|
+| Python | <a href="https://github.com/frostytm90/python-journey">Selenium Automation Journey</a>|
 | Selenium | <a href="https://github.com/frostytm90/automation-journey">Selenium Automation Journey</a>|
 
 
