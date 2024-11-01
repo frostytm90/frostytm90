@@ -26,3 +26,4 @@ The objective of this repository is to provide a comprehensive set of QA documen
 - <a href="https://github.com/frostytm90/python-journey/tree/main/projects/contactManagementSystem">Contact Management System</a>
 - <a href="https://github.com/frostytm90/python-journey/tree/main/projects/textBaseCalculator">Text-based Calculator</a>
 - <a href="https://github.com/frostytm90/python-journey/tree/main/projects/ticTacToe">Game of TicTacToe</a>
+- <a href="https://github.com/frostytm90/python-journey/tree/main/projects/autoQuizGen">Auto Quiz Generator</a>
